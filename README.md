@@ -35,7 +35,7 @@ JavaScript
 ```
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on the process for submitting pull requests.
+Please read [CONTRIBUTING.md](CONTRIBUTNG.md) for details on the process for submitting pull requests.
 
 ## License
 
