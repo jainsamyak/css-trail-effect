@@ -35,7 +35,7 @@ JavaScript
 ```
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTNG.md) for details on the process for submitting pull requests.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for submitting pull requests.
 
 ## License
 
