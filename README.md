@@ -21,9 +21,10 @@ To change the background image:
 ```
 ---
 
-To customise the speed of animation:
+To customise the speed of animation(fading of division):
 ```javascript
-Simply change the time in the setTimeout() function in script.js
+1. Simply change the time in the setTimeout() function in script.js
+2. Change the duration in ms in styles.css fadeout animation
 ```
 
 ### Built With
