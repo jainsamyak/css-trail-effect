@@ -23,6 +23,19 @@
 }
 #fol{
     z-index: -1;
+    animation: fadeout 700ms ease-in-out;
+    opacity: 0;
+}
+@keyframes fadeout{
+    0%{
+        opacity: 0.1;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
 }
 @keyframes zoom{
     0%{
