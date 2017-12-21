@@ -14,8 +14,9 @@ This project is an inspiration from the splash page of [Canva-Amazingly Simple G
 
 ### Customisation
 This project was designed keeping in mind the ease of customisation.
-```
+
 To change the background image:
+```
 1. Change the url in styles.css
 2. Change the background url of div in script.js
 ```
