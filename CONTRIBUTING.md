@@ -1,4 +1,4 @@
-All contributions to his project are welcome!
+Any contributions & improvements to this project are welcome!
 ___
 By submitting a pull request, you agree that your contributions are licensed under the [MIT License](LICENSE.md)
 
